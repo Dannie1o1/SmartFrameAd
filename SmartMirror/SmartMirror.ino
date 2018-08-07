@@ -2,6 +2,10 @@
  Name:		SmartMirror.ino
  Created:	8/3/2018 1:13:11 PM
  Author:	Danny G
+
+ making a change here
+
+
 */
 
 #include <LiquidCrystal.h>
